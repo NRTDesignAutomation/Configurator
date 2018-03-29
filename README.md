@@ -1,0 +1,2 @@
+# Configurator
+The main configurator
